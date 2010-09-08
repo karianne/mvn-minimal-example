@@ -1,0 +1,12 @@
+This project aims to be a working example of how to setup a Scala project with Maven, IDEA and JUnit tests.
+
+h1. How to setup
+
+This example is tested using IDEA 9.0.3, Scala 2.8.0 and Maven 2.2.0, but latest versions of everything is probably fine.
+
+* If you haven't done so already, "download and install IDEA":http://www.jetbrains.com/idea/download/
+* If you haven't done so already, install the Scala plugin for IDEA. Settings -> Plugins -> Available -> Search for Scala -> Right-click "Scala" -> Download and install
+* If you haven't done so already, "download and install Git":http://git-scm.com/download. If you're on Windows, the msysGit distribution is recommended
+* If you haven't done so already, "download and install Maven":http://maven.apache.org/download.html
+* Clone this repository by firing up a command line window, navigating to the directory you would like to have the source code and running the command @git clone git://github.com/karianne/mvn-minimal-example.git@
+* Open IDEA by opening the project's POM file in IDEA
